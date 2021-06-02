@@ -14,9 +14,9 @@ el Diseño de interfaces.
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
    <img src="assets/html.svg" alt="html" width="40" height="40"/>
-  <img src="assets/css3.svg" alt="sass" width="40" height="40"/> 
-  <img src="assets/javascript.svg" alt="sass" width="40" height="40"/> 
-  <img src="assets/git.svg" alt="sass" width="40" height="40"/> 
+  <img src="assets/css3.svg" alt="csss3" width="40" height="40"/> 
+  <img src="assets/javascript.svg" alt="javascript" width="40" height="40"/> 
+  <img src="assets/git.svg" alt="git" width="40" height="40"/> 
    <img src="./assets/sass.svg" alt="sass" width="40" height="40"/> 
 
 - 🌱 Actualmente estoy aprendiendo Javascript | Desarrollo Web Front End | Desarrollo de paginas y apps  | Diseño de interfaces.
