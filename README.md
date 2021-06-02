@@ -12,6 +12,9 @@ Soy un estudiante autodidacta del Desarrollo web con un año de apredizaje, resi
 Me encanta el Aprendizaje Automático y tratar de encontrar más sobre el Desarrollo Web Front end y
 el Diseño de interfaces.
 
+<h2 style="margin: 1rem 0;">📚 My Stack<h3>
+  <img src="./assets/css3.svg" alt="css3" width="40" height="40"/> 
+
 - 🌱 Actualmente estoy aprendiendo Javascript | Desarrollo Web Front End | Desarrollo de paginas y apps  | Diseño de interfaces.
 - 👯 Estoy buscando colaborar en proyectos de aprendizaje automático y desarrollo web. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Pregúntame sobre cualquier cosa. Intentaré ayudarte en todo lo que pueda.
