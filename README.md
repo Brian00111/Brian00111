@@ -13,7 +13,7 @@ Me encanta el Aprendizaje Automático y tratar de encontrar más sobre el Desarr
 el Diseño de interfaces.
 
 <h2 style="margin: 1rem 0;">📚 My Stack<h3>
-  <img src="../assets/git.svg" alt="git" width="40" height="40"/>
+  <img src="./assets/git.svg" alt="git" width="40" height="40"/>
   <img src="./assets/css3.svg" alt="css3" width="40" height="40"/>
   <img src="./assets/sass.svg" alt="sass" width="40" height="40"/> 
   <img src="./assets/html.svg" alt="html5" width="40" height="40"/>
